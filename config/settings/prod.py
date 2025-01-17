@@ -39,6 +39,7 @@ CORS_ORIGIN_WHITELIST = [
 
 CORS_ORIGIN_ALLOW_ALL = False
 
+
 # Static and media files
 MEDIA_ROOT = BASE_DIR / "media"
 MEDIA_BASE_URL = "media"
